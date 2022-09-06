@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">MyAnubhav</string>
+    <string name="todo">TODO</string>
+    <string name="alan_walker">Alan Walker</string>
+    <string name="add_employment_details">Add employment details</string>
+    <string name="contributions_given">CONTRIBUTIONS GIVEN</string>
+    <string name="zero">0</string>
+    <string name="review">Review</string>
+    <string name="interview">Interview</string>
+    <string name="applied_job">Applied Job</string>
+    <string name="responses_received">RESPONSES RECEIVED</string>
+    <string name="helpful_vote">Helpful Vote</string>
+    <string name="view">View</string>
+    <string name="interview_experiences_by_you">Interview Experiences by you</string>
+    <string name="d">Salaries shared by you</string>
+    <string name="statement1">You haven\'t written any interview review so far.</string>
+    <string name="submit_interview_questions">Submit interview questions</string>
+    <string name="company_reviews_by_you">Company Reviews by you</string>
+    <string name="statement4">You haven\'t written any company review so far.</string>
+    <string name="rate_a_salary">Rate your company</string>
+    <string name="companies_you_follow">Companies you follow</string>
 </resources>
