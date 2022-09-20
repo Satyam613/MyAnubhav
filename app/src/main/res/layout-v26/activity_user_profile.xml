@@ -232,12 +232,14 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:autoSizeTextType="uniform"
-                android:autoSizeMinTextSize="12sp"
-                android:autoSizeMaxTextSize="13sp"
+                android:autoSizeMinTextSize="15sp"
+                android:autoSizeMaxTextSize="25sp"
+                android:autoSizeStepGranularity="1sp"
                 android:layout_marginStart="5dp"
                 android:fontFamily="@font/poppins_semibold"
                 android:text="@string/interview_experiences_by_you"
-                android:textColor="@color/blue_900" />
+                android:textColor="@color/blue_900"
+                android:textSize="18sp" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -285,12 +287,11 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginStart="5dp"
-                android:fontFamily="@font/poppins_semibold"
                 android:text="@string/d"
+                android:fontFamily="@font/poppins_semibold"
                 android:textColor="@color/blue_900"
-                android:textSize="11sp"
-                />
+                android:layout_marginStart="5dp"
+                android:textSize="18sp"/>
 
             <TextView
                 android:layout_width="match_parent"

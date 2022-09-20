@@ -3,9 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/drawable/ic_baseline_arrow_right.xml" value="0.186" />
-        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
-        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/layout/activity_user_profile.xml" value="0.2" />
+        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/drawable/background.xml" value="0.2395" />
+        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/drawable/button_bg.xml" value="0.2395" />
+        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/drawable/ic_undraw_interview_re_e5jn.xml" value="0.2395" />
+        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/drawable/radio_bg.xml" value="0.2395" />
+        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/drawable/star_outline.xml" value="0.2395" />
+        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/layout-v23/fragment_bottom_sheet.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/layout-v26/activity_user_profile.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/layout/activity_interview_experience.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/layout/activity_rate_your_comapany.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/layout/activity_submit_salaries.xml" value="0.19610507246376813" />
+        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/layout/activity_user_profile.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/POPEYE/MyAnubhav/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.23645833333333333" />
       </map>
     </option>
   </component>
