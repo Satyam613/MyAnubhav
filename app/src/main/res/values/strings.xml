@@ -1,3 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MyAnubhav</string>
+    <!-- login_screen strings -->
+
+    <string name="app_name">Page 1</string>
+    <string name="ek_img_content">ExportKit Image</string>
+    <string name="continue_via_phone_string">Continue via Phone</string>
+    <string name="google_string">Google</string>
+    <string name="by_continuing_you_accept_our_privacy_policy_and_t_c_string">By continuing,you accept our Privacy Policy and T&amp;C</string>
+    <string name="login_for_personalised_experience_string">Login for personalised experience</string>
+    <string name="linkedln_string">Linkedln</string>
+    <string name="myanubhav_string">MyAnubHav</string>
+
+    <!-- phone_number__screen strings -->
+    <string name="mobile_string">Mobile</string>
+    <string name="enter_your_phone_number_string">Enter Your Phone Number</string>
+    <string name="we_will_send_you_the_6_digit_verification_code_string">We will send you the 6-digit verification code</string>
+    <string name="generate_otp_string">GENERATE OTP</string>
+    <string name="_8103910578_string">8103910578</string>
+    <string name="__91_string">+91</string>
+
+    <!-- otp__screen strings -->
+    <string name="otp_verification_string">OTP Verification</string>
+    <string name="enter_the_otp_sent_to__91_810391057_string">Enter the OTP sent</string>
+    <string name="verify___continue_string">VERIFY &amp; CONTINUE</string>
+    <string name="didn_t_receive_the_otp__resend_string">Didnt receive the OTP? RESEND</string>
+    <string name="_7_string">7</string>
+    <string name="_8_string">8</string>
+    <string name="_6_string">6</string>
+    <string name="_9_string">9</string>
+    <string name="_4_string">4</string>
+    <string name="_2_string">2</string>
 </resources>
