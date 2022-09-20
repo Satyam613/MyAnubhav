@@ -231,10 +231,6 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:autoSizeTextType="uniform"
-                android:autoSizeMinTextSize="15sp"
-                android:autoSizeMaxTextSize="25sp"
-                android:autoSizeStepGranularity="1sp"
                 android:layout_marginStart="5dp"
                 android:fontFamily="@font/poppins_semibold"
                 android:text="@string/interview_experiences_by_you"

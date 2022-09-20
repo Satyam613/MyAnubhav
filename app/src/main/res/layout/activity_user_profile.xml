@@ -231,9 +231,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:autoSizeTextType="uniform"
-                android:autoSizeMinTextSize="12sp"
-                android:autoSizeMaxTextSize="13sp"
+                android:textSize="18sp"
                 android:layout_marginStart="5dp"
                 android:fontFamily="@font/poppins_semibold"
                 android:text="@string/interview_experiences_by_you"
@@ -289,7 +287,7 @@
                 android:fontFamily="@font/poppins_semibold"
                 android:text="@string/d"
                 android:textColor="@color/blue_900"
-                android:textSize="11sp"
+                android:textSize="18sp"
                 />
 
             <TextView
